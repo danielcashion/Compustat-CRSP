@@ -1,0 +1,919 @@
+1,gvkey,Global Company Key
+2,datadate,Data Date
+3,fyear,Data Year - Fiscal
+4,indfmt,Industry Format
+5,consol,Level of Consolidation - Company Annual Descriptor
+6,popsrc,Population Source
+7,datafmt,Data Format
+8,tic,Ticker Symbol
+9,cusip,CUSIP
+10,conm,Company Name
+11,acctchg,Adoption of Accounting Changes
+12,acctstd,Accounting Standard
+13,acqmeth,Acquisition Method
+14,adrr,ADR Ratio
+15,ajex,Adjustment Factor (Company) - Cumulative by Ex-Date
+16,ajp,Adjustment Factor (Company) - Cumulative by Pay-Date
+17,bspr,Balance Sheet Presentation
+18,compst,Comparability Status
+19,curcd,ISO Currency Code
+20,curncd,Native Currency Code
+21,currtr,Currency Translation Rate
+22,curuscn,US Canadian Translation Rate
+23,final,Final Indicator Flag
+24,fyr,Fiscal Year-end Month
+25,ismod,Income Statement Model Number
+26,ogm,Oil & Gas Method
+27,ltcm,Long Term Contract Method
+28,pddur,Period Duration
+29,scf,Cash Flow Format
+30,src,Source Document
+31,stalt,Status Alert
+32,udpl,Utility - Liberalized Depreciation Code
+33,upd,Update Code
+34,apdedate,Actual Period End date
+35,fdate,Final Date
+36,pdate,Preliminary Date
+37,acchg,Accounting Changes - Cumulative Effect
+38,acco,Acceptances Outstanding
+39,acdo,Current Assets of Discontinued Operations
+40,aco,Current Assets - Other - Total
+41,acodo,Other Current Assets Excl Discontinued Operations
+42,acominc,Accumulated Other Comprehensive Income (Loss)
+43,acox,Current Assets - Other - Sundry
+44,acoxar,Current Assets - Other - Total As Reported
+45,acqao,Acquired Assets > Other Long-Term Assets
+46,acqcshi,Shares Issued for Acquisition
+47,acqgdwl,Acquired Assets - Goodwill
+48,acqic,Acquisitions - Current Income Contribution
+49,acqintan,Acquired Assets - Intangibles
+50,act,Current Assets - Total
+51,adpac,Amortization of Deferred Policy Acquisition Costs
+52,acqinvt,Acquired Assets - Inventory
+53,acqlntal,Acquired Loans
+54,aedi,Accrued Expenses and Deferred Income
+55,afudcc,Allowance for Funds Used During Construction (Cash
+56,acqniintc,Net Interest Income Contribution
+57,acqppe,"Acquired Assets > Property, Plant & Equipment"
+58,afudci,Allowance for Funds Used During Construction (Investing)
+59,aldo,Long-term Assets of Discontinued Operations
+60,acqsc,Acquisitions - Current Sales Contribution
+61,am,Amortization of Intangibles
+62,amc,Amortization (Cash Flow) - Utility
+63,amdc,Amortization of Deferred Charges
+64,amgw,Amortization of Goodwill
+65,ano,Assets Netting & Other Adjustments
+66,ao,Assets - Other
+67,aocidergl,Accum Other Comp Inc - Derivatives Unrealized
+68,aociother,Accum Other Comp Inc - Other Adjustments
+69,aocipen,Accum Other Comp Inc - Min Pension Liab Adj
+70,aocisecgl,Accum Other Comp Inc - Unreal G/L Ret Int in Sec Assets
+71,aodo,Other Assets excluding Discontinued Operations
+72,aol2,Assets Level2 (Observable)
+73,aoloch,Assets and Liabilities - Other - Net Change
+74,aox,Assets - Other - Sundry
+75,ap,Accounts Payable - Trade
+76,apalch,Accounts Payable and Accrued Liabilities -
+77,apb,"Accounts Payable/Creditors - Brokers, Dealers and Clearing"
+78,apc,Accounts Payable/Creditors - Customer
+79,apofs,Accounts Payable/Creditors - Other - FS
+80,aqa,Acquisition/Merger After-tax
+81,aqc,Acquisitions
+82,aqd,Acquisition/Merger Diluted EPS Effect
+83,aqeps,Acquisition/Merger Basic EPS Effect
+84,aqi,Acquisitions - Income Contribution
+85,aqp,Acquisition/Merger Pretax
+86,aqpl1,Assets Level1 (Quoted Prices)
+87,aqs,Acquisitions - Sales Contribution
+88,arb,"Accounts Receivable/Debtors - Brokers, Dealers, and Clearing Organizations"
+89,arc,Accounts Receivable/Debtors - Customer
+90,arce,As Reported Core - After-tax
+91,arced,As Reported Core - Diluted EPS Effect
+92,arceeps,As Reported Core - Basic EPS Effect
+93,artfs,Accounts Receivable/Debtors - Total
+94,at,Assets - Total
+95,aul3,Assets Level3 (Unobservable)
+96,autxr,Appropriations to Untaxed Reserves
+97,balr,Benefits Assumed - Life
+98,banlr,Benefits Assumed - Nonlife
+99,bast,Average Short-Term Borrowings
+100,bastr,Average Short-Term Borrowings Rate
+101,batr,Benefits Assumed - Total
+102,bcef,"Brokerage, Clearing and Exchange Fees"
+103,bclr,Benefits Ceded - Life
+104,bcltbl,Benefits and Claims - Total (Business Line)
+105,bcnlr,Benefits Ceded - Nonlife
+106,bcrbl,Benefits and Claims - Reinsurance (Business Line)
+107,bct,Benefits and Claims - Total (Insurance)
+108,bctbl,Benefits and Claims - Other (Business Line)
+109,bctr,Benefits Ceded - Total
+110,bkvlps,Book Value Per Share
+111,bltbl,Benefits - Life - Total (Business Line)
+112,ca,Customers Acceptance
+113,capr1,Risk-Adjusted Capital Ratio - Tier 1
+114,capr2,Risk-Adjusted Capital Ratio - Tier 2
+115,capr3,Risk-Adjusted Capital Ratio - Combined
+116,caps,Capital Surplus/Share Premium Reserve
+117,capx,Capital Expenditures
+118,capxv,"Capital Expend Property, Plant and Equipment Schd V"
+119,cb,Compensating Balance
+120,cbi,Claims Incurred - Insurance
+121,cdpac,Capitalized Deferred Polcy Acquisition Costs
+122,cdvc,Cash Dividends on Common Stock (Cash Flow)
+123,ceq,Common/Ordinary Equity - Total
+124,ceql,Common Equity - Liquidation Value
+125,ceqt,Common Equity - Tangible
+126,cfbd,Commissions and Fees - (Broker/Dealer)
+127,cfere,Commissions and Fees - (Real Estate)
+128,cfo,Commissions and Fees - Other
+129,cfpdo,Commissions and Fees Paid - Other
+130,cga,Capital Gains - After-Tax
+131,cgri,Capital Gains - Realized (Insurance)
+132,cgti,Capital Gains - Total (Insurance)
+133,cgui,Capital Gains - Unrealized (Insurance)
+134,ch,Cash
+135,che,Cash and Short-Term Investments
+136,chech,Cash and Cash Equivalents - Increase/(Decrease)
+137,chs,Cash and Deposits - Segregated
+138,ci,Comprehensive Income - Total
+139,cibegni,Comp Inc - Beginning Net Income
+140,cicurr,Comp Inc - Currency Trans Adj
+141,cidergl,Comp Inc - Derivative Gains/Losses
+142,cimii,Comprehensive Income - Noncontrolling Interest
+143,ciother,Comp Inc - Other Adj
+144,cipen,Comp Inc - Minimum Pension Adj
+145,cisecgl,Comp Inc - Securities Gains/Losses
+146,citotal,Comprehensive Income - Parent
+147,cld2,Capitalized Leases - Due in 2nd Year
+148,cld3,Capitalized Leases - Due in 3rd Year
+149,cld4,Capitalized Leases - Due in 4th Year
+150,cld5,Capitalized Leases - Due in 5th Year
+151,clfc,Contingent Liabilities - Forward and Future Contracts
+152,clfx,Contingent Liabilities - Foreign Exchange Commitments
+153,clg,Contingent Liabilities - Guarantees
+154,clis,Contingent Liabilities - Interest Rate Swaps
+155,cll,Contingent Liabilities - Letters of Credit
+156,cllc,Contingent Liabilities - Loan Commitments
+157,clo,Contingent Liabilities - Other
+158,clrll,Credit Loss Reserve Allocated for LDC Loans
+159,clt,Contingent Liabilities - Total
+160,cmp,Commercial Paper
+161,cnltbl,Claims - Non-Life - Total (Business Line)
+162,cogs,Cost of Goods Sold
+163,cpcbl,Commercial Property and Casualty Claims (Business Line)
+164,cpdoi,Claims Paid - Other
+165,cpnli,Claims Paid - Non-Life
+166,cppbl,Commercial Property and Casualty Premiums (Business)
+167,cprei,Claims Paid - Reinsurance
+168,crv,Consolidation Reserves
+169,crvnli,Reserves for Claims (Losses) - Nonlife (Insurance)
+170,cshfd,Common Shares Used to Calc Earnings Per Share - Fully Diluted
+171,cshi,Common Shares Issued
+172,csho,Common Shares Outstanding
+173,cshpri,Common Shares Used to Calculate Earnings Per Share - Basic
+174,cshr,Common/Ordinary Shareholders
+175,cshrc,Common Shares Reserved for Conversion - Convertible Debt
+176,cshrp,Common Shares Reserved for Conversion - Preferred Stock
+177,cshrso,Common Shares Reserved for Conversion - Stock Options
+178,cshrt,Common Shares Reserved for Conversion - Total
+179,cshrw,Common Shares Reserved for Conversion - Warrants and Other
+180,cstk,Common/Ordinary Stock (Capital)
+181,cstkcv,Common Stock-Carrying Value
+182,cstke,Common Stock Equivalents - Dollar Savings
+183,dbi,Death Benefits - Insurance
+184,dc,Deferred Charges
+185,dclo,Debt - Capitalized Lease Obligations
+186,dcom,Deferred Compensation
+187,dcpstk,Convertible Debt and Preferred Stock
+188,dcs,Debt - Consolidated Subsidiary
+189,dcvsr,Debt - Senior Convertible
+190,dcvsub,Debt - Subordinated Convertible
+191,dcvt,Debt - Convertible
+192,dd,Debt - Debentures
+193,dd1,Long-Term Debt Due in One Year
+194,dd2,Debt - Due in 2nd Year
+195,dd3,Debt - Due in 3rd Year
+196,dd4,Debt - Due in 4th Year
+197,dd5,Debt - Due in 5th Year
+198,depc,Depreciation and Depletion (Cash Flow)
+199,dfpac,Deferred Policy Acquisition Costs
+200,dfs,Debt - Finance Subsidiary
+201,dfxa,Depreciation of Tangible Fixed Assets
+202,diladj,Dilution Adjustment
+203,dilavx,Dilution Available - Excluding Extraordinary Items
+204,dlc,Debt in Current Liabilities - Total
+205,dlcch,Current Debt - Changes
+206,dltis,Long-Term Debt - Issuance
+207,dlto,Other Long-term Debt
+208,dltp,Long-Term Debt - Tied to Prime
+209,dltr,Long-Term Debt - Reduction
+210,dltsub,Long-Term Debt - Subordinated
+211,dltt,Long-Term Debt - Total
+212,dm,Debt - Mortgages & Other Secured
+213,dn,Debt - Notes
+214,do,Discontinued Operations
+215,donr,Nonrecurring Disc Operations
+216,dp,Depreciation and Amortization
+217,dpacb,Depreciation (Accumulated) - Buildings
+218,dpacc,Depreciation (Accumulated) - Construction in Progress
+219,dpacli,Depreciation (Accumulated) - Land and Improvements
+220,dpacls,Depreciation (Accumulated) - Leases
+221,dpacme,Depreciation (Accumulated) - Machinery and Equipment
+222,dpacnr,Depreciation (Accumulated) - Natural Resources
+223,dpaco,Depreciation (Accumulated) - Other
+224,dpacre,Accumulated Depreciation of RE Property
+225,dpact,"Depreciation, Depletion and Amortization (Accumulated)"
+226,dpc,Depreciation and Amortization (Cash Flow)
+227,dpdc,Deposits - Demand - Customer
+228,dpltb,Deposits - Long-Term Time - Bank
+229,dpret,Depr/Amort of Property
+230,dpsc,Deposits - Savings - Customer
+231,dpstb,Deposits - Short-Term Demand - Bank
+232,dptb,Deposits - Total - Banks
+233,dptc,Deposits - Total - Customer
+234,dptic,Deposits - Time - Customer
+235,dpvieb,Depreciation (Accumulated) - Ending Balance (Schedule VI)
+236,dpvio,Depreciation (Accumulated) - Other Changes (Schedule VI)
+237,dpvir,Depreciation (Accumulated) - Retirements (Schedule VI)
+238,drc,Deferred Revenue - Current
+239,drci,Deduction From Policy and Claims Reserves for Reinsurance Ceded
+240,drlt,Deferred Revenue - Long-term
+241,ds,Debt-Subordinated
+242,dtea,Extinguishment of Debt After-tax
+243,dted,Extinguishment of Debt Diluted EPS Effect
+244,dteeps,Extinguishment of Debt Basic EPS Effect
+245,dtep,Extinguishment of Debt Pretax
+246,dudd,Debt - Unamortized Debt Discount and Other
+247,dv,Cash Dividends (Cash Flow)
+248,dvc,Dividends Common/Ordinary
+249,dvdnp,Dividends Declared and Not Provided
+250,dvp,Dividends - Preferred/Preference
+251,dvpa,Preferred Dividends in Arrears
+252,dvpd,Cash Dividends Paid
+253,dvpdp,Dividends and Bonuses Paid Policyholders
+254,dvpibb,Depreciation (Accumulated) - Beginning Balance (Schedule IV)
+255,dvrpiv,Dividends Received from Permanent Investments
+256,dvrre,Development Revenue (Real Estate)
+257,dvsco,Dividends - Share Capital - Other
+258,dvt,Dividends - Total
+259,dxd2,Debt (excl Capitalized Leases) - Due in 2nd Year
+260,dxd3,Debt (excl Capitalized Leases) - Due in 3rd Year
+261,dxd4,Debt (excl Capitalized Leases) - Due in 4th Year
+262,dxd5,Debt (excl Capitalized Leases) - Due in 5th Year
+263,ea,Exchange Adjustments (Assets)
+264,ebit,Earnings Before Interest and Taxes
+265,ebitda,Earnings Before Interest
+266,eiea,Equity in Earnings - After-Tax
+267,emol,Directors Emoluments
+268,emp,Employees
+269,epsfi,Earnings Per Share (Diluted) - Including Extraordinary Items
+270,epsfx,Earnings Per Share (Diluted) - Excluding Extraordinary Items
+271,epspi,Earnings Per Share (Basic) - Including Extraordinary Items
+272,epspx,Earnings Per Share (Basic) - Excluding Extraordinary Items
+273,esopct,Common ESOP Obligation - Total
+274,esopdlt,ESOP Debt - Long Term
+275,esopnr,Preferred ESOP Obligation - Non-Redeemable
+276,esopr,Preferred ESOP Obligation - Redeemable
+277,esopt,Preferred ESOP Obligation - Total
+278,esub,Equity in Earnings - Unconsolidated Subsidiaries
+279,esubc,Equity in Net Loss - Earnings
+280,excadj,Exchange Adjustments (Liabilities)
+281,exre,Exchange Rate Effect
+282,fatb,"Property, Plant, and Equipment - Buildings at Cost"
+283,fatc,"Property, Plant, and Equipment - Construction in Progress at Cost"
+284,fatd,Fixed Assets and Investments - Disposals - Gain (Loss)
+285,fate,"Property, Plant, and Equipment - Machinery and Equiptment at Cost"
+286,fatl,"Property, Plant, and Equipment - Leases at Cost"
+287,fatn,"Property, Plant, and Equipment - Natural Resources at Cost"
+288,fato,"Property, Plant, and Equipment - Other at Cost"
+289,fatp,"Property, Plant, and Equipment - Land and Improvements at Cost"
+290,fca,Foreign Exchange Income (Loss)
+291,fdfr,Federal Funds Purchased
+292,fea,Foreign Exchange Assets
+293,fel,Foreign Exchange Liabilities
+294,ffo,Funds From Operations (REIT)
+295,ffs,Federal Funds Sold
+296,fiao,Financing Activities - Other
+297,fincf,Financing Activities - Net Cash Flow
+298,fopo,Funds from Operations - Other
+299,fopox,Funds from Operations - Other excluding Option Tax Benefit
+300,fopt,Funds From Operations - Total
+301,fsrco,Sources of Funds - Other
+302,fsrct,Sources of Funds - Total
+303,fuseo,Uses of Funds - Other
+304,fuset,Uses of Funds - Total
+305,gbbl,Group Benefits (Business Line)
+306,gdwl,Goodwill
+307,gdwlam,Goodwill Amortization
+308,gdwlia,Impairments of Goodwill After-tax
+309,gdwlid,Impairments of Goodwill Diluted EPS Effect
+310,gdwlieps,Impairments of Goodwill Basic EPS Effect
+311,gdwlip,Impairments of Goodwill Pretax
+312,geqrv,Grants - Equity Reserves
+313,gla,Gain/Loss After-tax
+314,glcea,Gain/Loss on Sale (Core Earnings Adjusted) After-tax
+315,glced,Gain/Loss on Sale (Core Earnings Adjusted) Diluted EPS
+316,glceeps,Gain/Loss on Sale (Core Earnings Adjusted) Basic EPS Effect
+317,glcep,Gain/Loss on Sale (Core Earnings Adjusted) Pretax
+318,gld,Gain/Loss Diluted EPS Effect
+319,gleps,Gain/Loss Basic EPS Effect
+320,glp,Gain/Loss Pretax
+321,govgr,Government Grants
+322,govtown,Percent of Government Owned
+323,gp,Gross Profit (Loss)
+324,gphbl,Group Premiums - Health (Business Line)
+325,gplbl,Group Premiums - Life (Business Line)
+326,gpobl,Group Premiums - Other (Business Line)
+327,gprbl,Group Premiums - Retirement Benefits (Business Line)
+328,gptbl,Group Premiums - Total (Business Line)
+329,gwo,Goodwill Written Off
+330,hedgegl,Gain/Loss on Ineffective Hedges
+331,iaeq,Investment Assets - Equity Securities (Insurance)
+332,iaeqci,Investment Assets (Insurance) - Equity Securities (Cost)
+333,iaeqmi,Investment Assets (Insurance) - Equity Securities (Market)
+334,iafici,Investment Assets (Insurance) - Fixed Income Securities (Cost)
+335,iafxi,Investment Assets - Fixed Income Securities (Insurance)
+336,iafxmi,Investment Assets (Insurance) - Fixed Income Securities (Market)
+337,iali,Investment Assets (Insurance) - Listed Securities-Total
+338,ialoi,Investment Assets - Loans - Other (Insurance)
+339,ialti,Investment Assets - Loans - Total (Insurance)
+340,iamli,Investment Assets - Mortgage Loans (Insurance)
+341,iaoi,Investment Assets - Other (Insurance)
+342,iapli,Investment Assets - Policy Loans (Insurance)
+343,iarei,Investment Assets - Real Estate (Insurance)
+344,iasci,Investment Assets (Insurance) - Securities - Sundry (Cost)
+345,iasmi,Investment Assets (Insurance) - Securities - Sundry (Market)
+346,iassi,Investment Assets - Securities - Sundry (Insurance)
+347,iasti,Investment Assets - Securities - Total (Insurance)
+348,iatci,Investment Assets (Insurance) - Securities - Total (Cost)
+349,iati,Investment Assets - Total (Insurance)
+350,iatmi,Investment Assets (Insurance) - Securities - Total (Market)
+351,iaui,Investment Assets (Insurance) - Unlisted Securities - Total
+352,ib,Income Before Extraordinary Items
+353,ibadj,Income Before Extraordinary Items - Adjusted for Common Stock Equivalents
+354,ibbl,Individual Benefits (Business Line)
+355,ibc,Income Before Extraordinary Items (Cash Flow)
+356,ibcom,Income Before Extraordinary Items - Available for Common
+357,ibki,Investment Banking Income
+358,ibmii,Income before Extraordinary Items and Noncontrolling Interests
+359,icapt,Invested Capital - Total
+360,idiis,Interest and Dividend Income - Investment Securities
+361,idilb,Interest and Dividend Income - Loans/Claims/Advances - Banks
+362,idilc,Interest and Dividend Income - Loans/Claims/Advances - Customers
+363,idis,Interest and Dividend Income - Sundry
+364,idist,Interest and Dividend Income - Short-Term Investments
+365,idit,Interest and Related Income - Total
+366,idits,Interest and Dividend Income - Trading Securities
+367,iire,Investment Income (Real Estate)
+368,initb,Income - Non-interest - Total (Bank)
+369,intan,Intangible Assets - Total
+370,intano,Other Intangibles
+371,intc,Interest Capitalized
+372,intpn,Interest Paid - Net
+373,invch,Inventory - Decrease (Increase)
+374,invfg,Inventories - Finished Goods
+375,invo,Inventories - Other
+376,invofs,Inventory/Stock - Other
+377,invreh,Inventory/Stock - Real Estate Held for Development
+378,invrei,Inventory/Stock - Real Estate Under Development
+379,invres,Inventory/Stock - Real Estate Held for Sale
+380,invrm,Inventories - Raw Materials
+381,invt,Inventories - Total
+382,invwip,Inventories - Work In Process
+383,iobd,Income - Other (Broker Dealer)
+384,ioi,Income - Other (Insurance)
+385,iore,Income - Other (Real Estate)
+386,ip,Investment Property
+387,ipabl,Individual Premiums - Annuity (Business Line)
+388,ipc,Investment Property (Cost)
+389,iphbl,Individual Premiums - Health (Business Line)
+390,iplbl,Individual Premiums - Life (Business Line)
+391,ipobl,Individual Premiums - Other (Business Line)
+392,iptbl,Individual Premiums - Total (Business Line)
+393,ipti,Insurance Premiums - Total (Insurance)
+394,ipv,Investment Property (Valuation)
+395,irei,Interest and Related Income - Reinsurance (Insurance)
+396,irent,Rental Income
+397,irii,Interest and Related Income (Insurance)
+398,irli,Interest and Related Income - Life (Insurance)
+399,irnli,Interest and Related Income - Non-Life (Insurance)
+400,irsi,Interest and Related Income - Sundry (Insurance)
+401,iseq,Investment Securities - Equity
+402,iseqc,Investment Securities - Equity (Cost)
+403,iseqm,Investment Securities - Equity (Market)
+404,isfi,Investment Securities - Fixed Income
+405,isfxc,Investment Securities - Fixed Income (Cost)
+406,isfxm,Investment Securities - Fixed Income (Market)
+407,isgr,Investment Securities - Gain (Loss) - Realized
+408,isgt,Investment Securities - Gain (Loss) - Total
+409,isgu,Investment Securities - Gain (Loss) - Unrealized
+410,islg,Investment Securities - Local Governments
+411,islgc,Investment Securities - Local Governments (Cost)
+412,islgm,Investment Securities - Local Governments (Market)
+413,islt,Investment Securities - Listed - Total
+414,isng,Investment Securities - National Governments
+415,isngc,Investment Securities - National Governments (Cost)
+416,isngm,Investment Securities - National Governments (Market)
+417,isotc,Invetsment Securities - Other (Cost)
+418,isoth,Investment Securities - Other
+419,isotm,Invetsment Securities - Other (Market)
+420,issc,Investment Securities - Sundry (Cost)
+421,issm,Investment Securities - Sundry (Market)
+422,issu,Investment Securities - Sundry
+423,ist,Investment Securities - Total
+424,istc,Investment Securities - Total (Cost)
+425,istm,Investment Securities - Total (Market)
+426,isut,Investment Securities - Unlisted - Total
+427,itcb,Investment Tax Credit (Balance Sheet)
+428,itcc,Investment Tax Credit - Net (Cash Flow) - Utility
+429,itci,Investment Tax Credit (Income Account)
+430,ivaco,Investing Activities - Other
+431,ivaeq,Investment and Advances - Equity
+432,ivao,Investment and Advances - Other
+433,ivch,Increase in Investments
+434,ivgod,Investments Grants and Other Deductions
+435,ivi,Investment Income - Total (Insurance)
+436,ivncf,Investing Activities - Net Cash Flow
+437,ivpt,Investments - Permanent - Total
+438,ivst,Short-Term Investments - Total
+439,ivstch,Short-Term Investments - Change
+440,lcabg,Loans/Claims/Advances - Banks and Government - Total
+441,lcacl,Loans/Claims/Advances - Commercial
+442,lcacr,Loans/Claims/Advances - Consumer
+443,lcag,Loans/Claims/Advances - Government
+444,lcal,Loans/Claims/Advances - Lease
+445,lcalt,Loans/Claims/Advances - Long-Term (Banks)
+446,lcam,Loans/Claims/Advances - Mortgage
+447,lcao,Loans/Claims/Advances - Other
+448,lcast,Loans/Claims/Advances - Short-Term - Banks
+449,lcat,Loans/Claims/Advances - Total
+450,lco,Current Liabilities - Other - Total
+451,lcox,Current Liabilities - Other - Sundry
+452,lcoxar,Current Liabilities - Other - Total As Reported
+453,lcoxdr,Current Liabilities - Other - Excluding Deferred Revenue
+454,niintpfc,Pro Forma Net Interest Income - Current
+455,niintpfp,Pro Forma Net Interest Income - Prior
+456,lct,Current Liabilities - Total
+457,lcuacu,Loans/Claims/Advances - Customer - Total
+458,li,Leasing Income
+459,lif,Life Insurance in Force
+460,nipfc,Pro Forma Net Income - Current
+461,nipfp,Pro Forma Net Income - Prior
+462,lifr,LIFO Reserve
+463,lloml,LDC Loans Outstanding - Medium and Long-Term
+464,lloo,LDC Loans Outstanding - Other
+465,llot,LDC Loans Outstanding - Total
+466,llrci,Loan Loss Recoveries - Credited to Income
+467,llrcr,Loan Loss Recoveries - Credited to Reserves
+468,llwoci,Loan Loss Written Off - Charged to Income
+469,llwocr,Loan Loss Written Off - Charged to Reserves
+470,lno,Liabilities Netting & Other Adjustments
+471,lo,Liabilities - Other - Total
+472,lol2,Liabilities Level2 (Observable)
+473,loxdr,Liabilities - Other - Excluding Deferred Revenue
+474,lqpl1,Liabilities Level1 (Quoted Prices)
+475,lrv,Legal Reserves
+476,ls,Liabilities - Other - Sundry
+477,lse,Liabilities and Stockholders Equity - Total
+478,lst,Life Insurance Surrenders and Terminations
+479,lt,Liabilities - Total
+480,lul3,Liabilities Level3 (Unobservable)
+481,mib,Noncontrolling Interest (Balance Sheet)
+482,mibn,Noncontrolling Interests - Nonredeemable - Balance Sheet
+483,mibt,Noncontrolling Interests - Total - Balance Sheet
+484,mii,Noncontrolling Interest (Income Account)
+485,mrc1,Rental Commitments - Minimum - 1st Year
+486,mrc2,Rental Commitments - Minimum - 2nd Year
+487,mrc3,Rental Commitments - Minimum - 3rd Year
+488,mrc4,Rental Commitments - Minimum - 4th Year
+489,mrc5,Rental Commitments - Minimum - 5th Year
+490,mrct,Rental Commitments - Minimum - 5 Year Total
+491,mrcta,Thereafter Portion of Leases
+492,msa,Marketable Securities Adjustment
+493,msvrv,Mandatory Securities Valuation Reserve (Statutory)
+494,mtl,Loans From Securities Finance Companies for Margin Transactions
+495,nat,Nonadmitted Assets - Total (Statutory)
+496,nco,Net Charge-Offs
+497,nfsr,Non-Financial Services Revenue
+498,ni,Net Income (Loss)
+499,niadj,Net Income Adjusted for Common/Ordinary Stock
+500,ital),(Capital) Equivalents
+501,nieci,Net Income Effect Capitalized Interest
+502,niint,Net Interest Income
+503,niit,Net Interest Income (Tax Equivalent)
+504,nim,Net Interest Margin
+505,nio,Net Items - Other
+506,nit,Net Item - Total
+507,nits,Net Income - Total (Statutory)
+508,nopi,Nonoperating Income (Expense)
+509,nopio,Nonoperating Income (Expense) - Other
+510,np,Notes Payable - Short-Term Borrowings
+511,npanl,Nonperforming Assets - Nonaccrual Loans
+512,npaore,Nonperforming Assets - Other Real Estate Owned
+513,nparl,Nonperforming Assets - Restructured Loans
+514,npat,Nonperforming Assets - Total
+515,nrtxt,Nonrecurring Income Taxes After-tax
+516,nrtxtd,Nonrecurring Income Tax Diluted EPS Effect
+517,nrtxteps,Nonrecurring Income Tax Basic EPS Effect
+518,oancf,Operating Activities - Net Cash Flow
+519,ob,Order Backlog
+520,oiadp,Operating Income After Depreciation
+521,oibdp,Operating Income Before Depreciation
+522,opeps,Earnings Per Share from Operations
+523,opili,Operating Income - Life
+524,opincar,Operating Income - As Reported
+525,opini,Operating Income - Non-Life
+526,opioi,Operating Income - Other
+527,opiri,Operating Income - Reinsurance
+528,opiti,Operating Income - Total
+529,oprepsx,Earnings Per Share - Diluted - from Operations
+530,optca,Options - Cancelled (-)
+531,optdr,Dividend Rate - Assumption (%)
+532,optex,Options Exercisable 0
+533,optexd,Options - Exercised (-)
+534,optfvgr,Options - Fair Value of Options Granted
+535,optgr,Options - Granted
+536,optlife,Life of Options - Assumption (# yrs)
+537,optosby,Options Outstanding - Beg of Year
+538,optosey,Options Outstanding - End of Year
+539,optprcby,Options Outstanding Beg of Year - Price
+540,optprcca,Options Cancelled - Price
+541,optprcex,Options Exercised - Price
+542,optprcey,Options Outstanding End of Year - Price
+543,optprcgr,Options Granted - Price
+544,optprcwa,Options Exercisable - Weighted Avg Price
+545,optrfr,Risk Free Rate - Assumption (%)
+546,optvol,Volatility - Assumption (%)
+547,palr,Premiums Assumed - Life
+548,panlr,Premiums Assumed - Nonlife
+549,patr,Premiums Assumed - Total
+550,pcl,Provision - Credit Losses (Income Account)
+551,pclr,Premiums Ceded - Life
+552,pcnlr,Premiums Ceded - Nonlife
+553,pctr,Premiums Ceded - Total
+554,pdvc,Cash Dividends on Preferred/Preference Stock (Cash Flow)
+555,pi,Pretax Income
+556,pidom,Pretax Income - Domestic
+557,pifo,Pretax Income - Foreign
+558,pll,Provision for Loan/Asset Losses
+559,pltbl,Premiums - Life - Total (Business Line)
+560,pnca,Core Pension Adjustment
+561,pncad,Core Pension Adjustment Diluted EPS Effect
+562,pncaeps,Core Pension Adjustment Basic EPS Effect
+563,pncia,Core Pension Interest Adjustment After-tax
+564,pncid,Core Pension Interest Adjustment Diluted EPS Effect
+565,pncieps,Core Pension Interest Adjustment Basic EPS Effect
+566,pncip,Core Pension Interest Adjustment Pretax
+567,pncwia,Core Pension w/o Interest Adjustment After-tax
+568,pncwid,Core Pension w/o Interest Adjustment Diluted EPS Effect
+569,pncwieps,Core Pension w/o Interest Adjustment Basic EPS Effect
+570,pncwip,Core Pension w/o Interest Adjustment Pretax
+571,pnlbl,Premiums - Nonlife - Total (Business Line)
+572,pnli,Premiums Written - Non-Life
+573,pnrsho,Nonred Pfd Shares Outs 0
+574,pobl,Premiums - Other (Business Line)
+575,ppcbl,Personal Property and Casualty Claims (Business Line)
+576,ppegt,"Property, Plant and Equipment - Total (Gross)"
+577,ppenb,"Property, Plant, and Equipment - Buildings (Net)"
+578,ppenc,"Property, Plant, and Equipment - Construction in Progress (Net)"
+579,ppenli,"Property, Plant, and Equipment - Land and Improvements (Net)"
+580,ppenls,"Property, Plant, and Equipment - Leases (Net)"
+581,ppenme,"Property, Plant, and Equipment - Machinery and Equiptment (Net)"
+582,ppennr,"Property, Plant, and Equipment - Natural Resources (Net)"
+583,ppeno,"Property, Plant, and Equipment - Other (Net)"
+584,ppent,"Property, Plant and Equipment - Total (Net)"
+585,ppevbb,"Property, Plant and Equipment - Beginning Balance (Schedule V)"
+586,ppeveb,"Property, Plant, and Equipment - Ending Balance (Schedule V)"
+587,ppevo,"Property, Plant, and Equipment - Other Changes (Schedule V)"
+588,ppevr,"Property, Plant and Equipment - Retirements (Schedule V)"
+589,pppabl,Personal Property and Casualty Premiums - Automobile (Business Line)
+590,ppphbl,Personal Property and Casualty Premiums - Homeowners (Business Line)
+591,pppobl,Personal Property and Casualty Premiums - Other (Business Line)
+592,ppptbl,Personal Property & Casualty Premiums - Total (Business Line)
+593,prc,Participation Rights Certificates
+594,prca,Core Post Retirement Adjustment
+595,prcad,Core Post Retirement Adjustment Diluted EPS Effect
+596,prcaeps,Core Post Retirement Adjustment Basic EPS Effect
+597,prebl,Premiums - Reinsurance (Business Line)
+598,pri,Premiums Written - Reinsurance
+599,prodv,Proposed Dividends
+600,prsho,Redeem Pfd Shares Outs 0
+601,prstkc,Purchase of Common and Preferred Stock
+602,prstkcc,Purchase of Common Stock (Cash Flow)
+603,prstkpc,Purchase of Preferred/Preference Stock (Cash Flow)
+604,prvt,Policy Reserves - Total (Statutory)
+605,pstk,Preferred/Preference Stock (Capital) - Total
+606,pstkc,Preferred Stock - Convertible
+607,pstkl,Preferred Stock - Liquidating Value
+608,pstkn,Preferred/Preference Stock - Nonredeemable
+609,pstkr,Preferred/Preference Stock - Redeemable
+610,salepfc,Pro Forma Net Sales - Current Year
+611,salepfp,Pro Forma Net Sales - Prior Year
+612,pstkrv,Preferred Stock - Redemption Value
+613,ptbl,Premiums - Total (Business Line)
+614,ptran,Principal Transactions
+615,pvcl,Provision - Credit Losses (Balance Sheet)
+616,pvo,Provision - Other
+617,pvon,Provisions - Other (Net)
+618,pvpl,Provision - Pension Liabilities
+619,pvt,Provisions - Total
+620,pwoi,Premiums Written - Other
+621,radp,Reinsurance Assets - Deposits and Other (Insurance)
+622,ragr,Resale Agreements
+623,rari,Reinsurance Assets - Receivable/Debtors (Insurance)
+624,rati,Reinsurance Assets - Total (Insurance)
+625,rca,Restructuring Costs After-tax
+626,rcd,Restructuring Costs Diluted EPS Effect
+627,rceps,Restructuring Costs Basic EPS Effect
+628,rcl,Reserves for Credit Losses (Assets)
+629,rcp,Restructuring Costs Pretax
+630,rdip,In Process R&D Expense
+631,rdipa,In Process R&D Expense After-tax
+632,rdipd,In Process R&D Expense Diluted EPS Effect
+633,rdipeps,In Process R&D Expense Basic EPS Effect
+634,rdp,Regulatory Deposits
+635,re,Retained Earnings
+636,rea,Retained Earnings - Restatement
+637,reajo,Retained Earnings - Other Adjustments
+638,recch,Accounts Receivable - Decrease (Increase)
+639,recco,Receivables - Current - Other
+640,recd,Receivables - Estimated Doubtful
+641,rect,Receivables - Total
+642,recta,Retained Earnings - Cumulative Translation Adjustment
+643,rectr,Receivables - Trade
+644,recub,Unbilled Receivables
+645,ret,Total RE Property
+646,reuna,Retained Earnings - Unadjusted
+647,reunr,Retained Earnings - Unrestricted
+648,revt,Revenue - Total
+649,ris,Revenue/Income - Sundry
+650,rll,Reserve for Loan/Asset Losses
+651,rlo,Reinsurance Liabilities - Other
+652,rlp,Reinsurance Liabilities - Payables/Creditors
+653,rlri,Reinsurers Liability for Reserves (Insurance)
+654,rlt,Reinsurance Liabilities - Total
+655,rmum,Auditors Remuneraton
+656,rpag,Repurchase Agreements
+657,rra,Reversal - Restructruring/Acquisition Aftertax
+658,rrd,Reversal - Restructuring/Acq Diluted EPS Effect
+659,rreps,Reversal - Restructuring/Acq Basic EPS Effect
+660,rrp,Reversal - Restructruring/Acquisition Pretax
+661,rvbci,Reserves for Benefits - Life - Claims (Insurance)
+662,rvbpi,Reserves for Benefits - Life - Policy (Insurance)
+663,rvbti,Reserves for Benefits - Life - Total (Insurance)
+664,rvdo,Reserves - Distributable - Other
+665,rvdt,Reserves - Distributable - Total
+666,rveqt,Equity Reserves - Total
+667,rvlrv,Revaluation Reserve
+668,rvno,Reserves - Nondistributable - Other
+669,rvnt,Reserves - Nondistributable - Total
+670,rvri,Reserves - Reinsurance (Insurance)
+671,rvsi,Reserves - Sundry (Insurance)
+672,rvti,Reserves - Total
+673,rvtxr,Reserves - Tax-Regulated
+674,rvupi,Reserves for Unearned Premiums (Insurance)
+675,rvutx,Reserves - Untaxed
+676,saa,Separate Account Assets
+677,sal,Separate Account Liabilities
+678,sale,Sales/Turnover (Net)
+679,sbdc,Securities Borrowed and Deposited by Customers
+680,sc,Securities In Custody
+681,sco,Share Capital - Other
+682,scstkc,Sale of Common Stock (Cash Flow)
+683,secu,Securities Gains (Losses) - Unrealized
+684,seq,Stockholders Equity - Parent
+685,seqo,Other Stockholders- Equity Adjustments
+686,seta,Settlement (Litigation/Insurance) After-tax
+687,setd,Settlement (Litigation/Insurance) Diluted EPS Effect
+688,seteps,Settlement (Litigation/Insurance) Basic EPS Effect
+689,setp,Settlement (Litigation/Insurance) Pretax
+690,siv,Sale of Investments
+691,spce,S&P Core Earnings
+692,spced,S&P Core Earnings EPS Diluted
+693,spceeps,S&P Core Earnings EPS Basic
+694,spi,Special Items
+695,spid,Other Special Items Diluted EPS Effect
+696,spieps,Other Special Items Basic EPS Effect
+697,spioa,Other Special Items After-tax
+698,spiop,Other Special Items Pretax
+699,sppe,Sale of Property
+700,sppiv,"Sale of Property, Plant and Equipment and Investments - Gain (Loss)"
+701,spstkc,Sale of Preferred/Preference Stock (Cash Flow)
+702,sret,Gain/Loss on Sale of Property
+703,srt,Surplus - Total (Statutory)
+704,ssnp,Securities Sold Not Yet Purchased
+705,sstk,Sale of Common and Preferred Stock
+706,stbo,Short-Term Borrowings - Other
+707,stio,Short-Term Investments - Other
+708,stkco,Stock Compensation Expense
+709,stkcpa,After-tax stock compensation
+710,tdc,Deferred Income Taxes - Net (Cash Flow)
+711,tdscd,Trading/Dealing Account Securities - Corporate Debt
+712,tdsce,Trading/Dealing Account Securities - Corporate Equity
+713,tdsg,Trading/Dealing Securities - Gain (Loss)
+714,tdslg,Trading/Dealing Account Securities - Local Governments
+715,tdsmm,Trading/Dealing Account Securities - Money Market
+716,tdsng,Trading/Dealing Account Securities - National Governments
+717,tdso,Trading/Dealing Account Securities - Other
+718,tdss,Trading/Dealing Account Securities - Sundry
+719,tdst,Trading/Dealing Account Securities - Total
+720,teq,Stockholders Equity - Total
+721,tf,Trust Fees
+722,tfva,Total Fair Value Assets
+723,tfvce,Total Fair Value Changes including Earnings
+724,tfvl,Total Fair Value Liabilities
+725,tie,Interest Expense - Total (Financial Services)
+726,tii,Interest Income - Total (Financial Services)
+727,tlcf,Tax Loss Carry Forward
+728,transa,Cumulative Translation Adjustment
+729,tsa,Treasury Stock (Assets)
+730,tsafc,Total Sources/Applications of Funds (Cash Flow)
+731,tso,Treasury Stock - Other Share Capital
+732,tstk,Treasury Stock - Total (All Capital)
+733,tstkc,Treasury Stock - Common
+734,tstkme,Treasury Stock Book Value - Memo Entry
+735,tstkn,Treasury Stock - Number of Common Shares
+736,tstkp,Treasury Stock - Preferrred
+737,txach,Income Taxes - Accrued - Increase/(Decrease)
+738,txbco,Excess Tax Benefit Stock Options - Cash Flow Operating
+739,txbcof,Excess Tax Benefit of Stock Options - Cash Flow Financing
+740,txc,Income Taxes - Current
+741,txdb,Deferred Taxes (Balance Sheet)
+742,txdba,Deferred Tax Asset - Long Term
+743,txdbca,Deferred Tax Asset - Current
+744,txdbcl,Deferred Tax Liability - Current
+745,txdc,Deferred Taxes (Cash Flow)
+746,txdfed,Deferred Taxes-Federal
+747,txdfo,Deferred Taxes-Foreign
+748,txdi,Income Taxes - Deferred
+749,txditc,Deferred Taxes and Investment Tax Credit
+750,txds,Deferred Taxes-State
+751,txeqa,Tax - Equivalent Adjustment
+752,txeqii,Tax - Equivalent Interest Income (Gross)
+753,txfed,Income Taxes - Federal
+754,txfo,Income Taxes - Foreign
+755,txndb,Net Deferred Tax Asset (Liab) - Total
+756,txndba,Net Deferred Tax Asset
+757,txndbl,Net Deferred Tax Liability
+758,txndbr,Deferred Tax Residual
+759,txo,Income Taxes - Other
+760,txp,Income Taxes Payable
+761,txpd,Income Taxes Paid
+762,txr,Income Tax Refund
+763,txs,Income Taxes - State
+764,txt,Income Taxes - Total
+765,txtubadjust,Other Unrecog Tax Benefit Adj.
+766,txtubbegin,Unrecog. Tax Benefits - Beg of Year
+767,txtubend,Unrecog. Tax Benefits - End of Year
+768,txtubmax,Chg. In Unrecog. Tax Benefits - Max
+769,txtubmin,Chg. In Unrecog. Tax Benefits - Min
+770,txtubposdec,Decrease- Current Tax Positions
+771,txtubposinc,Increase- Current Tax Positions
+772,txtubpospdec,Decrease- Prior Tax Positions
+773,txtubpospinc,Increase- Prior Tax Positions
+774,txtubsettle,Settlements with Tax Authorities
+775,txtubsoflimit,Lapse of Statute of Limitations
+776,txtubtxtr,Impact on Effective Tax Rate
+777,txtubxintbs,Interest & Penalties Accrued - B/S
+778,txtubxintis,Interest & Penalties Reconized - I/S
+779,txva,Value Added Taxes
+780,txw,Excise Taxes
+781,uaoloch,Other Assets and Liabilities - Net Change (Statement of Cashflows)
+782,uaox,Other Assets - Utility
+783,uapt,Accounts Payable - Utility
+784,ucaps,Paid in Capital - Other
+785,uccons,Contributions in Aid of Construction
+786,uceq,Common Equity Total - Utility
+787,ucustad,Customer Advances for Construction
+788,udcopres,Deferred Credits and Operating Reserves - Other
+789,udd,Debt (Debentures)
+790,udfcc,Deferred Fuel - Increase (Decrease) (Statement of Cashflows)
+791,udmb,Debt (Mortgage Bonds) - Utility
+792,udolt,Debt (Other Long-Term) - Utility
+793,udpco,Debt (Pollution Control Obligations) - Utility
+794,udpfa,Depreciation of Fixed Assets
+795,udvp,Preferred Dividend Requirements
+796,ufretsd,Funds for Retirement of Securities and Short-Term Debt (Cashflows)
+797,ugi,Gross Income (Income Before Interest Charges)
+798,ui,Unearned Income
+799,uinvt,Inventories - Utility
+800,ulcm,Current Liabilities - Miscellaneous
+801,ulco,Current Liabilities - Other - Utility
+802,uniami,Net Income before Extraordinary Items and after Non Controlling Interests
+803,unl,Unappropriated Net Loss
+804,unnp,Unappropriated Net Profit (Stockholders Equity)
+805,unnpl,Unappropriated Net Profit
+806,unopinc,Nonoperating Income (Net) - Other
+807,unwcc,Working Capital (Use) - Increase (Decrease) (Cash Flow)
+808,uois,Other Internal Sources - Net (Cash Flow)
+809,uopi,Operating Income - Total - Utility
+810,uopres,Operating Reserves
+811,updvp,Preference Dividend Requirements*
+812,upmcstk,Premium on Common Stock*
+813,upmpf,Premium on Preferred Stock*
+814,upmpfs,Premium on Preference Stock*
+815,upmsubp,Premium on Subsidiary Preferred Stock*
+816,upstk,Preferred Stock at Carrying Value
+817,upstkc,Preference Stock at Carrying Value*
+818,upstksf,Preferred/Preference Stock Sinking Fund Requirement
+819,urect,Receivables (Net)
+820,urectr,Accounts Receivable - Trade - Utility
+821,urevub,Accrued Unbilled Revenues (Balance Sheet)
+822,uspi,Special Items
+823,ustdnc,Short-Term Debt - Decrease (Increase) (Cash Flow)
+824,usubdvp,Subsidiary Preferred Dividends
+825,usubpstk,Subsidiary Preferred Stock at Carrying Value
+826,utfdoc,Total Funds From Operations (Cash Flow)
+827,utfosc,Total Funds from Outside Sources (Cash Flow)
+828,utme,Maintenance Expense - Total
+829,utxfed,Current Taxes - Federal (Operating)
+830,uwkcapc,Working Capital (Source) - Decrease (Increase) (Cashflow)
+831,uxinst,Interest On Short-Term Debt - Utility
+832,uxintd,Interest on Long-Term Debt*
+833,vpac,Investments - Permanent - Associated Companies
+834,vpo,Investments - Permanent - Other
+835,wcap,Working Capital (Balance Sheet)
+836,wcapc,Working Capital Change - Other - Increase/(Decrease)
+837,wcapch,Working Capital Change - Total
+838,wda,Writedowns After-tax
+839,wdd,Writedowns Diluted EPS Effect
+840,wdeps,Writedowns Basic EPS Effect
+841,wdp,Writedowns Pretax
+842,xacc,Accrued Expenses
+843,xad,Advertising Expense
+844,xago,Administrative and General Expense - Other
+845,xagt,Administrative and General Expense - Total
+846,xcom,Communications Expense
+847,xcomi,Commissions Expense (Insurance)
+848,xdepl,Depletion Expense (Schedule VI)
+849,xdp,Depreciation Expense (Schedule VI)
+850,xdvre,Expense - Development (Real Estate)
+851,xeqo,Equipment and Occupancy Expense
+852,xi,Extraordinary Items
+853,xido,Extraordinary Items and Discontinued Operations
+854,xidoc,Extraordinary Items and Discontinued Operations (Cashflow)
+855,xindb,Interest Expense - Deposits - Banks
+856,xindc,Interest Expense - Deposits - Customer
+857,xins,Interest Expense - Sundry
+858,xinst,Interest Expense - Short-Term Borrowings
+859,xint,Interest and Related Expense - Total
+860,xintd,Interest Expense - Long-Term Debt
+861,xintopt,Implied Option Expense
+862,xivi,Investment Expense (Insurance)
+863,xivre,Expense - Investment (Real Estate)
+864,xlr,Staff Expense - Total
+865,xnbi,Other Insurance Expense
+866,xnf,Non-Financial Services Expense
+867,xnins,Other Expense - Noninsurance
+868,xnitb,Expense - Noninterest - Total (Bank)
+869,xobd,Expense - Other (Broker/Dealer)
+870,xoi,Expenses - Other (Insurance)
+871,xopr,Operating Expenses - Total
+872,xoprar,Operatings Expenses - As Reported
+873,xoptd,Implied Option EPS Diluted
+874,xopteps,Implied Option EPS Basic
+875,xore,Expense - Other (Real Estate)
+876,xpp,Prepaid Expenses
+877,xpr,Pension and Retirement Expense
+878,xrd,Research and Development Expense
+879,xrent,Rental Expense
+880,xs,Expense - Sundry
+881,xsga,"Selling, General and Administrative Expense"
+882,xstf,Staff Expense (Income Account)
+883,xstfo,Staff Expense - Other
+884,xstfws,Staff Expense - Wages and Salaries
+885,xt,Expense - Total
+886,xuw,Other Underwriting Expenses - Insurance
+887,xuwli,Underwriting Expense - Life
+888,xuwnli,Underwriting Expense - Non-Life
+889,xuwoi,Underwriting Expense - Other
+890,xuwrei,Underwriting Expense - Reinsurance
+891,xuwti,Underwriting Expense - Total
+892,iid,Issue ID - Security
+893,exchg,Stock Exchange Code
+894,cik,CIK Number
+895,costat,Active/Inactive Status Marker
+896,fic,Current ISO Country Code - Incorporation
+897,naicsh,North America Industrial Classification System - Historical
+898,sich,Standard Industrial Classification - Historical
+899,cshtr_c,Common Shares Traded - Annual - Calendar
+900,dvpsp_c,Dividends per Share - Pay Date - Calendar
+901,dvpsx_c,Dividends per Share - Ex-Date - Calendar
+902,prcc_c,Price Close - Annual - Calendar
+903,prch_c,Price High - Annual - Calendar
+904,prcl_c,Price Low - Annual - Calendar
+905,adjex_c,Cumulative Adjustment Factor by Ex-Date - Calendar
+906,cshtr_f,Common Shares Traded - Annual - Fiscal
+907,dvpsp_f,Dividends per Share - Pay Date - Fiscal
+908,dvpsx_f,Dividends per Share - Ex-Date - Fiscal
+909,mkvalt,Market Value - Total - Fiscal
+910,prcc_f,Price Close - Annual - Fiscal
+911,prch_f,Price High - Annual - Fiscal
+912,prcl_f,Price Low - Annual - Fiscal
+913,adjex_f,Cumulative Adjustment Factor by Ex-Date - Fiscal
+914,rank,Rank - Auditor
+915,au,Auditor
+916,auop,Auditor Opinion
+917,auopic,Auditor Opinion - Internal Control
+918,ceoso,Chief Executive Officer SOX Certification
+919,cfoso,Chief Financial Officer SOX Certification
